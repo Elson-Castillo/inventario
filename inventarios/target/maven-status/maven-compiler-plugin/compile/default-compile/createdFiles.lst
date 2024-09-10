@@ -1,0 +1,7 @@
+com\ec\inventarios\modelo\Producto.class
+com\ec\inventarios\excepcion\RecursoNoEncontradoExcepcion.class
+com\ec\inventarios\InventariosApplication.class
+com\ec\inventarios\repositorio\ProductoRepositorio.class
+com\ec\inventarios\controlador\ProductoControlador.class
+com\ec\inventarios\servicio\IProductoServicio.class
+com\ec\inventarios\servicio\ProductoServicio.class
