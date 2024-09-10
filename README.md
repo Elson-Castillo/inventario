@@ -7,7 +7,7 @@ Front End hecho con Angular:
 
 Creación de los Componentes Angular con TypeScript
 
-Uso de Bootstrap para los estilos CSS de nuestra aplicación Web
+Uso de Bootstrap para los estilos CSS de la aplicación Web
 
 Uso de peticiones Http Asíncronas 
 
